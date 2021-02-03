@@ -1,6 +1,6 @@
 # image
 
-token：2360f14298e10719d572cc51800dfc3b18e6d695
+token：fa2950ceb61c142caa184abd4e2016a0e8f2868e
 
 ### 解决无法显示图片的问题
 
