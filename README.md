@@ -1,6 +1,5 @@
 # image
 
-token：fa2950ceb61c142caa184abd4e2016a0e8f2868e
 
 ### 解决无法显示图片的问题
 
